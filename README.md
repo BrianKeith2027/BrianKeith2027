@@ -53,8 +53,9 @@ I build production machine learning systems and scalable data pipelines. Current
 |---------|-------------|------|
 | 🏥 **[Heart-Disease-Prediction-Tool](https://github.com/BrianKeith2027/Heart-Disease-Prediction-Tool)** | ML model predicting heart disease risk with lifestyle recommendations | Python, Scikit-learn, Jupyter |
 | 📈 **[Retail-Sales-Trend](https://github.com/BrianKeith2027/Retail-Sales-Trend)** | Sales trend analysis for the beverage industry | Python, Pandas, Jupyter |
-| 🔄 **Data Harmonization Pipeline** *(Coming Soon)* | Automated pipeline for cleaning and unifying messy datasets | Python, Pandas, LLM |
-| ⚡ **Spark Medallion Pipeline** *(Coming Soon)* | Databricks pipeline with bronze/silver/gold architecture | PySpark, Delta Lake |
+| 🔄 **[Data Harmonization Pipeline](https://github.com/BrianKeith2027/data-harmonization-pipeline)** | Automated pipeline for cleaning and unifying messy datasets | Python, Pandas, Fuzzy Matching |
+| ⚡ **[Spark Medallion Pipeline](https://github.com/BrianKeith2027/spark-medallion-pipeline)** | Medallion Architecture data pipeline (Bronze → Silver → Gold) | PySpark, Delta Lake |
+| 📊 **[Automated Data Quality Monitor](https://github.com/BrianKeith2027/automated-data-quality-monitor)** | Automated data quality monitoring with anomaly detection and profiling | Python, SciPy, Pandas |
 
 ---
 
