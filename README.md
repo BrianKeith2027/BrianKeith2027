@@ -46,6 +46,7 @@ I build production machine learning systems and scalable data pipelines. Current
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
@@ -59,6 +60,7 @@ I build production machine learning systems and scalable data pipelines. Current
 | ⚡ **[Spark Medallion Pipeline](https://github.com/BrianKeith2027/spark-medallion-pipeline)** | Medallion Architecture data pipeline (Bronze → Silver → Gold) | PySpark, Delta Lake |
 | 📊 **[Automated Data Quality Monitor](https://github.com/BrianKeith2027/automated-data-quality-monitor)** | Automated data quality monitoring with anomaly detection and profiling | Python, SciPy, Pandas |
 | ❄️ **[Snowflake Analytics Dashboard](https://github.com/BrianKeith2027/snowflake-analytics-dashboard)** | End-to-end Snowflake analytics with Snowpark Python and interactive Streamlit visualizations | Snowflake, Snowpark, Streamlit, Plotly |
+| 🧬 **[MLOps Clinical Trial Predictor](https://github.com/BrianKeith2027/mlops-clinical-trial-predictor)** | End-to-end MLOps pipeline predicting clinical trial outcomes with FastAPI serving, MLflow tracking, and CI/CD | FastAPI, MLflow, Docker, XGBoost |
 
 ---
 
