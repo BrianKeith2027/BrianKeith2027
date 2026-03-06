@@ -38,6 +38,8 @@ I build production machine learning systems and scalable data pipelines. Current
 ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge&logo=delta&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ### MLOps & DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -56,6 +58,7 @@ I build production machine learning systems and scalable data pipelines. Current
 | 🔄 **[Data Harmonization Pipeline](https://github.com/BrianKeith2027/data-harmonization-pipeline)** | Automated pipeline for cleaning and unifying messy datasets | Python, Pandas, Fuzzy Matching |
 | ⚡ **[Spark Medallion Pipeline](https://github.com/BrianKeith2027/spark-medallion-pipeline)** | Medallion Architecture data pipeline (Bronze → Silver → Gold) | PySpark, Delta Lake |
 | 📊 **[Automated Data Quality Monitor](https://github.com/BrianKeith2027/automated-data-quality-monitor)** | Automated data quality monitoring with anomaly detection and profiling | Python, SciPy, Pandas |
+| ❄️ **[Snowflake Analytics Dashboard](https://github.com/BrianKeith2027/snowflake-analytics-dashboard)** | End-to-end Snowflake analytics with Snowpark Python and interactive Streamlit visualizations | Snowflake, Snowpark, Streamlit, Plotly |
 
 ---
 
